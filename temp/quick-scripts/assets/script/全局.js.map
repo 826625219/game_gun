@@ -1,0 +1,1 @@
+{"version":3,"sources":["全局.ts"],"names":[],"mappings":";;;;AAAA,MAAM,CAAC,MAAM,CAAC,GAAG;IACb,KAAK,EAAE,CAAC;CACX,CAAA","file":"","sourceRoot":"..\\..\\..\\..\\assets\\script","sourcesContent":["window[\"data\"] = {\r\n    datas: 1,\r\n}\r\n"]}

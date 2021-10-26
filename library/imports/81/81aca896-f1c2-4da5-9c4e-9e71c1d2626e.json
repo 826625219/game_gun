@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "精品古典风横版地图素材-精品横板地图素材-横版地图24_爱给网_aigei_com",
+    "texture": "28076164-7044-43fb-aba9-d5d3cb89af88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
